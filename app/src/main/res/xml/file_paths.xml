@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="perro_images" path="images/" />
+    <cache-path name="camera_temp_images" path="images/camera/" />
+    <cache-path name="shared_pdfs" path="." />
+</paths>

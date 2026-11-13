@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Food / Kibble inside the bowl -->
+  <path
+      android:fillColor="#FFA726"
+      android:pathData="M12,5C8.69,5 6,6.34 6,8c0,0.83 0.72,1.6 1.93,2.21C9.09,10.82 10.47,11 12,11s2.91,-0.18 4.07,-0.79C17.28,9.6 18,8.83 18,8c0,-1.66 -2.69,-3 -6,-3z"/>
+  <!-- Kibble details -->
+  <path
+      android:fillColor="#EF6C00"
+      android:pathData="M9,7.5c0,0.41 -0.34,0.75 -0.75,0.75S7.5,7.91 7.5,7.5 7.84,6.75 8.25,6.75 9,7.09 9,7.5zM15.75,7.5c0,0.41 -0.34,0.75 -0.75,0.75s-0.75,-0.34 -0.75,-0.75 0.34,-0.75 0.75,-0.75 0.75,0.34 0.75,0.75zM12,8.5c0,0.41 -0.34,0.75 -0.75,0.75S10.5,8.91 10.5,8.5s0.34,-0.75 0.75,-0.75 0.75,0.34 0.75,0.75z"/>
+  <!-- Orange Bowl Body -->
+  <path
+      android:fillColor="#FF7043"
+      android:pathData="M3,11c0,0.83 0.67,1.5 1.5,1.5h15c0.83,0 1.5,-0.67 1.5,-1.5v-1c0,-0.83 -0.67,-1.5 -1.5,-1.5H4.5C3.67,8.5 3,9.17 3,10v1z"/>
+  <!-- Bowl Base / Rim -->
+  <path
+      android:fillColor="#E64A19"
+      android:pathData="M5,13.5c0,2.48 3.13,4.5 7,4.5s7,-2.02 7,-4.5H5z"/>
+  <!-- Distinct Pet Paw Print (Huella) stamped on the front of the bowl -->
+  <!-- Main pad -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M12,15.5c0.83,0 1.5,0.67 1.5,1.33 0,0.73 -0.67,1.17 -1.5,1.17s-1.5,-0.44 -1.5,-1.17c0,-0.66 0.67,-1.33 1.5,-1.33z"/>
+  <!-- Toe 1 (left) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M9.5,14c0.36,0 0.65,0.29 0.65,0.65s-0.29,0.65 -0.65,0.65 -0.65,-0.29 -0.65,-0.65 0.29,-0.65 0.65,-0.65z"/>
+  <!-- Toe 2 (center-left) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M11,13.25c0.36,0 0.65,0.29 0.65,0.65s-0.29,0.65 -0.65,0.65 -0.65,-0.29 -0.65,-0.65 0.29,-0.65 0.65,-0.65z"/>
+  <!-- Toe 3 (center-right) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M13,13.25c0.36,0 0.65,0.29 0.65,0.65s-0.29,0.65 -0.65,0.65 -0.65,-0.29 -0.65,-0.65 0.29,-0.65 0.65,-0.65z"/>
+  <!-- Toe 4 (right) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M14.5,14c0.36,0 0.65,0.29 0.65,0.65s-0.29,0.65 -0.65,0.65 -0.65,-0.29 -0.65,-0.65 0.29,-0.65 0.65,-0.65z"/>
+</vector>

@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">CuidaPet</string>
+
+    <!-- CrearPerroScreen -->
+    <string name="bienvenida_titulo">¡Bienvenido a CuidaPet!</string>
+    <string name="bienvenida_subtitulo">Ingresá el nombre de tu perro para comenzar</string>
+    <string name="campo_nombre_perro">Nombre del perro *</string>
+    <string name="error_nombre_obligatorio">Error. El nombre es obligatorio</string>
+    <string name="btn_comenzar">Comenzar</string>
+    <string name="btn_tomar_foto">Tomar foto</string>
+    <string name="btn_elegir_galeria">Elegir de galería</string>
+    <string name="acc_tomar_foto">Tomar foto con la cámara</string>
+    <string name="acc_elegir_galeria">Elegir foto de la galería</string>
+    <string name="acc_foto_perro">Foto de %1$s</string>
+    <string name="btn_cambiar_foto">Cambiar foto de %1$s</string>
+
+    <!-- HoyScreen -->
+    <string name="titulo_hoy">Hoy - %1$s</string>
+    <string name="btn_ver_todos_cuidados">Ver todos los cuidados</string>
+    <string name="seccion_cuidados_hoy">Cuidados de hoy</string>
+    <string name="empty_cuidados_hoy">No hay cuidados programados para hoy.</string>
+    <string name="seccion_proximos_10_dias">Próximos 10 días</string>
+    <string name="empty_proximos_10_dias">No hay cuidados programados para los próximos 10 días.</string>
+    <string name="btn_agregar_primer_cuidado">Agregar primer cuidado</string>
+    <string name="acc_agregar_cuidado">Agregar cuidado</string>
+    <string name="acc_ver_todos_cuidados">Ver listado completo de todos los cuidados</string>
+    <string name="acc_pantalla_hoy">Pantalla principal de hoy para %1$s</string>
+
+    <!-- AgregarCuidadoScreen -->
+    <string name="titulo_nuevo_cuidado">Nuevo Cuidado</string>
+    <string name="campo_tipo_cuidado">Tipo de cuidado *</string>
+    <string name="acc_seleccionar_tipo_cuidado">Seleccionar tipo de cuidado</string>
+    <string name="campo_titulo">Título *</string>
+    <string name="campo_fecha">Fecha (AAAA-MM-DD) *</string>
+    <string name="campo_hora">Hora (HH:mm) - Opcional</string>
+    <string name="campo_peso">Peso en kg *</string>
+    <string name="label_repetir_cuidado">Repetir este cuidado</string>
+    <string name="acc_repetir_cuidado">Repetir cuidado</string>
+    <string name="campo_repetir_cantidad">Repetir cada (cantidad)</string>
+    <string name="label_frecuencia">Frecuencia:</string>
+    <string name="campo_notas">Notas / Observaciones - Opcional</string>
+    <string name="btn_guardar_cuidado">Guardar cuidado</string>
+    <string name="acc_volver">Volver a Hoy</string>
+    <string name="error_titulo_obligatorio">Error. El título es obligatorio</string>
+    <string name="error_fecha_obligatoria">Error. La fecha es obligatoria</string>
+    <string name="error_peso_invalido">Error. Ingresá un valor numérico positivo para el peso</string>
+    <string name="error_repeticion_invalida">Error. La cantidad de repetición debe ser un número mayor a 0</string>
+
+    <!-- TodosCuidadosScreen -->
+    <string name="titulo_todos_cuidados">Todos los cuidados</string>
+    <string name="empty_todos_cuidados">No hay ningún cuidado registrado.</string>
+    <string name="seccion_hoy">Hoy</string>
+    <string name="seccion_proximos">Próximos</string>
+    <string name="seccion_anteriores">Anteriores</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="acc_eliminar_cuidado">Eliminar %1$s</string>
+    <string name="dialog_eliminar_titulo">Eliminar cuidado</string>
+    <string name="dialog_eliminar_mensaje">¿Estás seguro de que querés eliminar el cuidado \"%1$s\"?</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
